@@ -1,1 +1,1 @@
-console.log("main version");
+console.log("colorscheme version");
